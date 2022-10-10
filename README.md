@@ -15,4 +15,4 @@ It might be updated frequently with updates and new  tutorials.
 
 | Tutorial | Description                           |
 |--------|-------------------------------------------------------------------------------------|
-| Day 2 - Tutorial 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/workshops/blob/main/tutorials/D2-tutorial01.ipynb) | Day2 - Phylogenetic Analysis and ASR                           |
+| Day 2 - Tutorial 1   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/workshops/blob/main/tutorials/D2-tutorial01.ipynb) | Day2 - Phylogenetic Analysis and ASR                           |
