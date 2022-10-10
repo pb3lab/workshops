@@ -15,5 +15,5 @@ It might be updated frequently with updates and new  tutorials.
 
 | Tutorial | Description                           |
 |--------|-------------------------------------------------------------------------------------|
-| Day 2 - Tutorial 1   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/workshops/blob/main/tutorials/D2-tutorial01.ipynb) | Day 2 - Phylogenetic Analysis and ASR                           |
-| Day 2 - Tutorial 2   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/workshops/blob/main/tutorials/D2-tutorial02.ipynb) | Day 2 - Coevolutionary Analysis of Protein Sequences using pyDCA                            |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/workshops/blob/main/tutorials/D2-tutorial01.ipynb) Day 2 - Tutorial 1  | Phylogenetic Analysis and ASR                           |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/workshops/blob/main/tutorials/D2-tutorial02.ipynb) Day 2 - Tutorial 2 | Coevolutionary Analysis of Protein Sequences using pyDCA                            |
