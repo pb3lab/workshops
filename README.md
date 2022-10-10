@@ -1,9 +1,12 @@
 # The PB3 Lab Workshop GitHub
-### Institute for Biological and Medical Engineering [(IIBM)](http://iibm.uc.cl), Pontificia Universidad Catolica de Chile
-### ANID – Millennium Science Initiative Program – Millennium Institute for Integrative Biology [(iBio)](http://ibio.cl)
+#### Institute for Biological and Medical Engineering [(IIBM)](http://iibm.uc.cl), Pontificia Universidad Catolica de Chile
+#### ANID – Millennium Science Initiative Program – Millennium Institute for Integrative Biology [(iBio)](http://ibio.cl)
 
+## Brief Introduction
 
-This website contains several workshops on Computational Biology organized by our lab
+This website contains several workshops on Computational Biology organized by our lab.
+
+It might be updated frequently with updates and new  tutorials.
 
 ## Workshops
 
