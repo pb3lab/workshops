@@ -1,9 +1,0 @@
-https://www.ncbi.nlm.nih.gov/sra 
-https://www.ncbi.nlm.nih.gov/Traces/study/
-https://img.jgi.doe.gov/cgi-bin/m/main.cgi
-https://www.ebi.ac.uk/metagenomics/
-https://www.ncbi.nlm.nih.gov/sra/docs/sra-taxonomy-analysis-tool/
-https://www.ebi.ac.uk/interpro/search/sequence/
-http://eggnog-mapper.embl.de/
-https://www.mg-rast.org/
-https://www.kbase.us/
