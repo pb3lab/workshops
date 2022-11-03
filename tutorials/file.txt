@@ -1,3 +1,0 @@
-I am just a file,
-standing in front of a GitHub repository,
-asking GitHub to accept my uploaded files
