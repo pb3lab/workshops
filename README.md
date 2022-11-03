@@ -26,6 +26,4 @@ It might be updated frequently with updates and new  tutorials.
 
 | Tutorial | Description                           |
 |--------|-------------------------------------------------------------------------------------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/workshops/blob/main/tutorials/D1-tutorial02.ipynb) Day 1 - Tutorial 1  | Metagenomic data processing, from reads to protein functions |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/workshops/blob/main/tutorials/D2-tutorial01.ipynb) Day 1 - Tutorial 2  | Phylogenetic Analysis and ASR                           |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/workshops/blob/main/tutorials/D2-tutorial03.ipynb) Day 2 - Tutorial 1 | Coupling AF2 and GROMACS for protein structure prediction and MD simulations                            |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/workshops/blob/main/tutorials/spb2022/D1_Tutorial1.ipynb) Day 1 - Tutorial 1  | Introduction to Google Colab + Visualizing Molecular Structures in Google Colab using py3Dmol |
